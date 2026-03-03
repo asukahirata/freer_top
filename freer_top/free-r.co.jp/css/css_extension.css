@@ -1,0 +1,9 @@
+table[class="-x-on-richtext"] {
+  border-collapse: collapse;
+  word-break: break-all;
+}
+table[class="-x-on-richtext"] tr td{
+  border-style:solid;
+  border-width:1px;
+  padding: 0.4em;
+}
