@@ -2,6 +2,8 @@
   font-family: "M PLUS 1", sans-serif;
   color: #222;
   background-color: #fff;
+  position: relative;
+  z-index: 20;
 }
 .reasons img {
   display: block;
